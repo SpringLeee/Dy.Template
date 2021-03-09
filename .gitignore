@@ -3,3 +3,9 @@
 ################################################################################
 
 /templates/Dy.Template.Task/bin/Debug/net5.0
+/templates/Dy.Template.Task/obj
+/templates/.vs/Dy.Template
+/templates/Dy.Template.Test/bin/Debug/netcoreapp3.1
+/templates/Dy.Template.Test/obj
+/templates/Dy.Template.WebAPI/bin/Debug/net5.0
+/templates/Dy.Template.WebAPI/obj

@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "SpringLee",
+  "classifications": [ "Template" ],
+  "name": "Dy.Template",
+  "identity": "Dy.Template", 
+  "shortName": "dy-template",
+  "tags": {
+    "language": "C#" 
+  },
+  "sourceName": "Template" 
+}
